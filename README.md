@@ -1,3 +1,5 @@
+![LEARN](https://github.com/myramade/Myra-s-AI-Education-Resrouces/assets/28787937/621d190d-49dd-4c8a-9e1d-48bd35dc5877)
+
 # Learn AI 
 With the explosion of Generative AI, the interest in AI education is exploding, but where do you start? Well if you are faculty at a community college or university, you should check out [AWS Machine Learning University Educator Enablement Program](https://aws.amazon.com/machine-learning/educators/). But if you are just looking for additional AI education resources, I've compiled a list of resources below. Some of the resources are open-source and free to use, while others may charge a fee for use or actual tuition. I do my best to find all the highest quality free resources, so be sure to follow this repo by clicking the star at the top. I've organized this list in a pathway format, beginning with the core knowledge you should have in order to set yourself up for success. 
 
