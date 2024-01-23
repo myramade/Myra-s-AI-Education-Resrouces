@@ -20,5 +20,5 @@ Course | Description | Cost
 ## Learn Prompt Engineering
 Course | Description | Cost 
 ---|---|---|
-[Introduction to Prompt Engineering](https://learnprompting.thinkific.com/courses/introduction_to_prompt_engineering) | Learn about the basics of Prompt Engineering, and how to effectively communicate with AI | Free
-[Advanced Prompt Engineering](https://learnprompting.thinkific.com/courses/advanced-prompt-engineering) | Learn how to craft Complex and Efficient Prompts for Sophisticated AI Applications | Free
+[Introduction to Prompt Engineering](https://learnprompting.thinkific.com/courses/introduction_to_prompt_engineering) | Learn about the basics of Prompt Engineering, and how to effectively communicate with AI | Free Preview then $39 monthly
+[Advanced Prompt Engineering](https://learnprompting.thinkific.com/courses/advanced-prompt-engineering) | Learn how to craft Complex and Efficient Prompts for Sophisticated AI Applications | Free Preview then $39 monthly
