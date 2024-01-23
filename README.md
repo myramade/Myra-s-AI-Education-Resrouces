@@ -10,7 +10,7 @@ Course | Description | Cost
 [Note Taking Methods](https://collegeinfogeek.com/how-to-take-notes-in-college/) | Notetaking is an important part of not only effective learning but also once on the job it will help you ensure you understand the discussions and be able to refer back when questions or contradictions are made (it's called "CYA") | Free
 [Time Management Fundamentals by LinkedIn Learning](https://www.linkedin.com/learning/time-management-fundamentals-14548057/the-power-of-managing-your-time) | One of the reasons many students don't complete online courses they sign up for is because of time; learn some invaluableble time management techniques to stay on track | Free with your local Library Card
 
-## Learn LLM
+## Learn Python
 Course | Description | Cost 
 ---|---|---|
 [Learn Python - 100 Days of Code Replit](https://replit.com/learn/100-days-of-python/hub?utm_source=widget) | Learn Python by building apps - get coding right from the start - Don't be scared! | Free
